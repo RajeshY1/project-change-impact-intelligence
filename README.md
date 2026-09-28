@@ -105,7 +105,12 @@ The system surfaces confidence, assumptions, missing information, and risks inst
 
 The current prototype focuses on demonstrating the **product concept, decision-support workflow, and enterprise UX**.
 
-## 📸 Screenshots
+## 📸 Screenshots<img width="624" height="302" alt="image" src="https://github.com/user-attachments/assets/7224a74a-dfbd-4b62-b78d-ef8431f7a0c8" /><img width="624" height="308" alt="image" src="https://github.com/user-attachments/assets/e6b17284-42c6-4da3-906d-10d8f6a3c34f" /><img width="624" height="280" alt="image" src="https://github.com/user-attachments/assets/91da752c-3af4-4c9d-9fb6-0a6cd850fc3c" /><img width="624" height="300" alt="image" src="https://github.com/user-attachments/assets/0c3b2578-4751-43df-ab76-d3d2d7ef0c24" /><img width="624" height="305" alt="image" src="https://github.com/user-attachments/assets/a7b136da-1d04-401d-a9f6-03f9c94d8e18" />
+
+
+
+
+
 
 ### Proposed Change
 
